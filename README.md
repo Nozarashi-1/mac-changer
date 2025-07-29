@@ -28,7 +28,7 @@ This program allows users to spoof the MAC (Media Access Control) address of a s
 
 Clone the repository:
 
-    git clone https://github.com/your-username/mac-changer.git
+    git clone https://github.com/Nozarashi-1/mac-changer.git
     cd mac-changer
 
 ⚙️ Usage
